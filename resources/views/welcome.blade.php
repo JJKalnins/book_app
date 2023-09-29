@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="This store is one of the biggest book suppliers around the world!">
-    <title>Laravel</title>
+    <title>Book App</title>
     <link rel="icon" type="image/x-icon" href="{{ URL::asset('favicon.ico') }}">
     <link rel="icon" type="image/svg+xml" href="{{ URL::asset('favicon.svg') }}">
     <link rel="icon" type="image/png" href="{{ URL::asset('favicon.png') }}">
