@@ -1,0 +1,23 @@
+.book_section {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.order-info {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.card-text span {
+    font-weight: bold;
+    font-size: 18px;
+}
